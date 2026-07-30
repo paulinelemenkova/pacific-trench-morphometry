@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# large input grids -- never commit
+*.nc
+*.grd
+*.tif
+
+# macOS
+.DS_Store
