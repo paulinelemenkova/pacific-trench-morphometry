@@ -1,0 +1,4 @@
+variant,ari,k,n,source,lo,hi
+Spacing 20 km,0.9693514334446142,2,932,subsample,,
+Spacing 40 km,1.0,2,467,subsample,,
+Leave one trench out (n = 20),0.9857974023336078,2,1867,loo,0.8532149670295454,1.0

@@ -1,0 +1,8 @@
+# Python environment for pacific-trench-morphometry
+# GMT 6.6.0 must be installed separately (https://www.generic-mapping-tools.org)
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn==1.9.0
+pygmt==0.19.0
