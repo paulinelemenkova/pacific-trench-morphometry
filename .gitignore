@@ -1,0 +1,7 @@
+*.nc
+*.grd
+*.tif
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
